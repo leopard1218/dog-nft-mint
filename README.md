@@ -1,6 +1,5 @@
 ### How to Load the App
-```
-https://github.com/climbtoken/ClimbToken.V2.Presale.git
+
 npm install
 npm start
 ```
